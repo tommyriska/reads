@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: "jdbc:mysql://localhost:3306/bookly?serverTimezone=Europe/Oslo"
+    username: "root"
+    password: "root"
+
+logging:
+  level:
+    no.badask: DEBUG
